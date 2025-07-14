@@ -16,9 +16,9 @@ Os exercícios abordados são os seguintes:
 | Código do Problema | Nome do Problema                                                                                   | Dificuldade |   Responsável | Solução
 | ------------------ | -------------------------------------------------------------------------------------------------- | ----------- | ------ | ---- |
 | 741 | [Cherry Pickup](https://github.com/projeto-de-algoritmos-2025/PD_ExerciciosResolvidos-Leetcode/blob/581d1b03726acfc58f3b995df33a58c1cf90201b/Problema_741/problema741.md) | Difícil | [Paulo Henrique Rossi de Borba](https://github.com/paulohborba) | [Solução](https://github.com/projeto-de-algoritmos-2025/PD_ExerciciosResolvidos-Leetcode/blob/ed148c2a4cfda3ecd8ef97213489ebe7093ecc73/Problema_741/problema741.py) |
-|                | [ ]( )               | Difícil     | [Guilherme França Dib de Oliveira Bessa](https://github.com/GuiDib) | [Solução]( ) |
+| 10  | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/?envType=problem-list-v2&envId=dynamic-programming )               | Difícil     | [Guilherme França Dib de Oliveira Bessa](https://github.com/GuiDib) | [Solução]( ) |
 | 1235 | [Maximum Profit in Job Scheduling](https://github.com/projeto-de-algoritmos-2025/PD_ExerciciosResolvidos-Leetcode/blob/581d1b03726acfc58f3b995df33a58c1cf90201b/Problema_1235/problema1235.md) | Difícil | [Paulo Henrique Rossi de Borba](https://github.com/paulohborba) | [Solução](https://github.com/projeto-de-algoritmos-2025/PD_ExerciciosResolvidos-Leetcode/blob/ed148c2a4cfda3ecd8ef97213489ebe7093ecc73/Problema_1235/problema1235.py)  |
-|                | [ ]( )               | Médio       | [Guilherme França Dib de Oliveira Bessa](https://github.com/GuiDib) | [Solução]( ) |
+| 45  | [Jump Game II](https://leetcode.com/problems/jump-game-ii/?envType=problem-list-v2&envId=dynamic-programming)               | Médio       | [Guilherme França Dib de Oliveira Bessa](https://github.com/GuiDib) | [Solução]( ) |
 
 
 ## Screenshots
