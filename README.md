@@ -16,22 +16,22 @@ Os exercícios abordados são os seguintes:
 | Código do Problema | Nome do Problema                                                                                   | Dificuldade |   Responsável | Solução
 | ------------------ | -------------------------------------------------------------------------------------------------- | ----------- | ------ | ---- |
 | 741 | [Cherry Pickup](https://github.com/projeto-de-algoritmos-2025/PD_ExerciciosResolvidos-Leetcode/blob/581d1b03726acfc58f3b995df33a58c1cf90201b/Problema_741/problema741.md) | Difícil | [Paulo Henrique Rossi de Borba](https://github.com/paulohborba) | [Solução](https://github.com/projeto-de-algoritmos-2025/PD_ExerciciosResolvidos-Leetcode/blob/ed148c2a4cfda3ecd8ef97213489ebe7093ecc73/Problema_741/problema741.py) |
-| 10  | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/?envType=problem-list-v2&envId=dynamic-programming )               | Difícil     | [Guilherme França Dib de Oliveira Bessa](https://github.com/GuiDib) | [Solução]( ) |
+| 10  | [Regular Expression Matching](https://github.com/projeto-de-algoritmos-2025/PD_ExerciciosResolvidos-Leetcode/blob/9565bc9d64b3521ac11bf13fa35020f7b4427ea5/Problema_10/problema10.md)               | Difícil     | [Guilherme França Dib de Oliveira Bessa](https://github.com/GuiDib) | [Solução](https://github.com/projeto-de-algoritmos-2025/PD_ExerciciosResolvidos-Leetcode/blob/9565bc9d64b3521ac11bf13fa35020f7b4427ea5/Problema_10/problema10.py) |
 | 1235 | [Maximum Profit in Job Scheduling](https://github.com/projeto-de-algoritmos-2025/PD_ExerciciosResolvidos-Leetcode/blob/581d1b03726acfc58f3b995df33a58c1cf90201b/Problema_1235/problema1235.md) | Difícil | [Paulo Henrique Rossi de Borba](https://github.com/paulohborba) | [Solução](https://github.com/projeto-de-algoritmos-2025/PD_ExerciciosResolvidos-Leetcode/blob/ed148c2a4cfda3ecd8ef97213489ebe7093ecc73/Problema_1235/problema1235.py)  |
-| 45  | [Jump Game II](https://leetcode.com/problems/jump-game-ii/?envType=problem-list-v2&envId=dynamic-programming)               | Médio       | [Guilherme França Dib de Oliveira Bessa](https://github.com/GuiDib) | [Solução]( ) |
+| 45  | [Jump Game II](https://github.com/projeto-de-algoritmos-2025/PD_ExerciciosResolvidos-Leetcode/blob/9565bc9d64b3521ac11bf13fa35020f7b4427ea5/Problema_45/problema45.md)               | Médio       | [Guilherme França Dib de Oliveira Bessa](https://github.com/GuiDib) | [Solução](https://github.com/projeto-de-algoritmos-2025/PD_ExerciciosResolvidos-Leetcode/blob/9565bc9d64b3521ac11bf13fa35020f7b4427ea5/Problema_45/problema45.py) |
 
 
 ## Screenshots
 ![Problema 741](https://github.com/projeto-de-algoritmos-2025/PD_ExerciciosResolvidos-Leetcode/blob/ed148c2a4cfda3ecd8ef97213489ebe7093ecc73/Problema_741/img/sol71.png) <br>
 *Problema 741 aceitação* <br> <br>
 
-![Problema  ]( ) <br>
+![Problema 10](https://github.com/projeto-de-algoritmos-2025/PD_ExerciciosResolvidos-Leetcode/blob/9565bc9d64b3521ac11bf13fa35020f7b4427ea5/Problema_10/img/sol10.jpeg) <br>
 *Problema   aceitação* <br><br>
 
 ![Problema 1235](https://github.com/projeto-de-algoritmos-2025/PD_ExerciciosResolvidos-Leetcode/blob/ed148c2a4cfda3ecd8ef97213489ebe7093ecc73/Problema_1235/img/sol1235.png) <br>
 *Problema 1235 aceitação* <br> <br>
 
-![Problema  ]( ) <br>
+![Problema 45](https://github.com/projeto-de-algoritmos-2025/PD_ExerciciosResolvidos-Leetcode/blob/9565bc9d64b3521ac11bf13fa35020f7b4427ea5/Problema_45/img/sol45.jpeg) <br>
 *Problema   aceitação* <br> <br>
 
 ## Instalação 
