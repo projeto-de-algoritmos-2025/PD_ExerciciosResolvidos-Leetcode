@@ -15,9 +15,9 @@ Este projeto tem como objetivo aprofundar o conhecimento em algoritmos de Progra
 Os exercícios abordados são os seguintes:
 | Código do Problema | Nome do Problema                                                                                   | Dificuldade |   Responsável | Solução
 | ------------------ | -------------------------------------------------------------------------------------------------- | ----------- | ------ | ---- |
-| 741 | [Cherry Pickup](https://leetcode.com/problems/cherry-pickup/description/) | Difícil | [Paulo Henrique Rossi de Borba](https://github.com/paulohborba) | [Solução](https://github.com/projeto-de-algoritmos-2025/PD_ExerciciosResolvidos-Leetcode/blob/ed148c2a4cfda3ecd8ef97213489ebe7093ecc73/Problema_741/problema741.py) |
+| 741 | [Cherry Pickup](https://github.com/projeto-de-algoritmos-2025/PD_ExerciciosResolvidos-Leetcode/blob/581d1b03726acfc58f3b995df33a58c1cf90201b/Problema_741/problema741.md) | Difícil | [Paulo Henrique Rossi de Borba](https://github.com/paulohborba) | [Solução](https://github.com/projeto-de-algoritmos-2025/PD_ExerciciosResolvidos-Leetcode/blob/ed148c2a4cfda3ecd8ef97213489ebe7093ecc73/Problema_741/problema741.py) |
 |                | [ ]( )               | Difícil     | [Guilherme França Dib de Oliveira Bessa](https://github.com/GuiDib) | [Solução]( ) |
-| 1235 | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/) | Difícil | [Paulo Henrique Rossi de Borba](https://github.com/paulohborba) | [Solução](https://github.com/projeto-de-algoritmos-2025/PD_ExerciciosResolvidos-Leetcode/blob/ed148c2a4cfda3ecd8ef97213489ebe7093ecc73/Problema_1235/problema1235.py)  |
+| 1235 | [Maximum Profit in Job Scheduling](https://github.com/projeto-de-algoritmos-2025/PD_ExerciciosResolvidos-Leetcode/blob/581d1b03726acfc58f3b995df33a58c1cf90201b/Problema_1235/problema1235.md) | Difícil | [Paulo Henrique Rossi de Borba](https://github.com/paulohborba) | [Solução](https://github.com/projeto-de-algoritmos-2025/PD_ExerciciosResolvidos-Leetcode/blob/ed148c2a4cfda3ecd8ef97213489ebe7093ecc73/Problema_1235/problema1235.py)  |
 |                | [ ]( )               | Médio       | [Guilherme França Dib de Oliveira Bessa](https://github.com/GuiDib) | [Solução]( ) |
 
 
